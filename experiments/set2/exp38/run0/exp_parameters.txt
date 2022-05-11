@@ -1,0 +1,12 @@
+architecture : skip
+layers : [3072, 10, [1024, 512]]
+learning_algo : pepita
+learning_rate : 0.01
+update_algo : sgd
+mirroring : epoch
+run : 0
+exp_dir : /home/cpsc490_ac2788/CPSC490/experiments/set2/exp38
+exp_run_dir : /home/cpsc490_ac2788/CPSC490/experiments/set2/exp38/run0
+exp_log : /home/cpsc490_ac2788/CPSC490/experiments/set2/exp38/run0/exp_parameters.txt
+exp_stat_file : /home/cpsc490_ac2788/CPSC490/experiments/set2/exp38/run0/net_statistics.pkl
+fig_file : /home/cpsc490_ac2788/CPSC490/experiments/set2/exp38/run0/fig.png

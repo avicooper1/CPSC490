@@ -1,0 +1,8 @@
+architecture : simple
+layers : [3072, 1024, 10]
+learning_algo : fa
+learning_rate : 0.001
+update_algo : sgd
+mirroring : initial
+run : 1
+exp_dir : /home/cpsc490_ac2788/CPSC490/experiments/set2/exp7

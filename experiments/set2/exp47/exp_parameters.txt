@@ -1,0 +1,8 @@
+architecture : skip
+layers : [3072, 10, [1024, 512]]
+learning_algo : fa
+learning_rate : 0.001
+update_algo : mom
+mirroring : epoch
+run : 0
+exp_dir : /home/cpsc490_ac2788/CPSC490/experiments/set2/exp47
